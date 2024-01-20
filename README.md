@@ -4,7 +4,7 @@ This windows terminal application that uses RESTAPIs of RUCKUS products to perfo
 
 Below are the current capabilities
 -  SmartZone and RUCKUS One
-      Best Practice Wireless Configuration Assessment
+      - Best Practice Wireless Configuration Assessment
   
 
 
