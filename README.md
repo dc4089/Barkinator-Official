@@ -1,4 +1,4 @@
-# Barkinator-Official
+# Barkinator-Official v1.o
 
 This windows terminal application uses RESTAPIs of RUCKUS products to perform automated assessments. 
 
