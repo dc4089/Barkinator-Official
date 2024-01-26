@@ -1,4 +1,4 @@
-# Barkinator-Official v1.0
+# Barkinator-Official v1.01
 
 This windows terminal application uses RESTAPIs of RUCKUS products to perform automated assessments. 
 
@@ -23,7 +23,6 @@ Below are the current capabilities
   - Does NOT automatically change anything. The report will need to be analyzed and used to manually change configurations
   - RUCKUS One versions supported: all
   - SmartZone versions supported: 5.2 - 6.1
-  - RUCKUS One assessment analyzes venue settings only, so individual AP configurations will need to be manually reviewed and adjusted
   - Need prime/admin level access
   - Best practices are based on North American wireless regulations
   - Assesses indoor radio channel configurations only
@@ -54,3 +53,8 @@ Below are the current capabilities
       - WiFi 6/7
       - OFDM Only
       - BSS Min Rate
+     
+
+# Release Updates
+- Version 1.01
+  - Added RUCKUS One individual AP custom configuraiton automaition check and reporting
